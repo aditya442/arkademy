@@ -1,2 +1,3 @@
 # arkademy
-Test Arkademy
+untuk menjalankan file melalui https://dartpad.dartlang.org/
+
